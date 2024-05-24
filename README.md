@@ -3,4 +3,4 @@ my name is Petr Zakopal and I am a PhD student and researcher at the Department 
 
 My research activities focus on using FPGA, DSPs, CPUs for controlling, analysing, modelling and commisioning electric machines. I am into Neural Networks, AI and other stuff.
 
-More information about be will be added.
+More information about me will be added later.
